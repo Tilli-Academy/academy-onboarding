@@ -1,5 +1,5 @@
 # academy-onboarding
 Tilli Academy Onboarding
 Devesh
-dev-tilli
-deveshb@tilli.pro
+codesbydevesh
+devpro0306@gmail.com
