@@ -21,7 +21,9 @@ Tilli Academy Onboarding
 - Github ID: murari123-byte
 - Github Email: avatalaramamurarireddy@gmail.com
 
+
 Batch 2
+
 - Name: Sai Manish Ramasani
 - Github ID: SaiManish3
 - Github Email: saimanishramasani@gmail.com
@@ -37,3 +39,7 @@ Batch 2
 - Name: Govardhan Naidu Palla
 - Github ID: vardhanpalla
 - Github Email: vardhanpalla916@gmail.com
+
+- Name: Arun Banoth
+- Github ID: Arun2kx
+- Github Email: banotharunarun44@gmail.com
