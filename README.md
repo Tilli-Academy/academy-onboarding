@@ -19,3 +19,12 @@ Tilli Academy Onboarding
 - Name: Borra Harsha Vardhan
 - Github ID: harshaborra02
 - Github Email: borraharshavardhan4210@gmail.com
+
+- Name: Shaik Abdulrashid
+- Github ID: Abdulrashid-shaik
+- Github Email: shaik.rashid005@gmail.com
+
+
+- Name: Govardhan Naidu Palla
+- Github ID: vardhanpalla
+- Github Email: vardhanpalla916@gmail.com
