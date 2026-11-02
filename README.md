@@ -43,3 +43,7 @@ Batch 2
 - Name: Arun Banoth
 - Github ID: Arun2kx
 - Github Email: banotharunarun44@gmail.com
+
+- Name : Ojaswi Lavu
+Github ID : lavuojaswi12-pixel
+Github Email ID : lavuojaswi12@gmail.com
