@@ -47,3 +47,8 @@ Batch 2
 - Name : Ojaswi Lavu
 Github ID : lavuojaswi12-pixel
 Github Email ID : lavuojaswi12@gmail.com
+
+* Name: Lakshmi Vallepu
+* GitHub ID: lakshmivallepu34
+  Github Email ID: lakshmivallepu34@gmail.com
+  
